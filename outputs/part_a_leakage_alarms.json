@@ -1,0 +1,8 @@
+{
+  "LR_test_minus_val_pr_auc": 0.075823151592886,
+  "LR_permuted_label_test_pr_auc": 0.0008873461862003392,
+  "GBM_test_minus_val_pr_auc": 0.052910715499283834,
+  "GBM_permuted_label_test_pr_auc": 0.0008727369174419313,
+  "2x_test_prevalence": 0.0026064291920069507,
+  "halt": false
+}
